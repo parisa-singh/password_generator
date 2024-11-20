@@ -1,7 +1,3 @@
-# Author: Parisa Singh
-# Email: parisasingh@umass.edu
-# Spire ID: 34751702
-
 import random
 from string import ascii_uppercase, ascii_lowercase, digits, punctuation
 from math import floor
